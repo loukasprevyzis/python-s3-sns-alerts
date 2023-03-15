@@ -1,0 +1,9 @@
+python3.10 -m pip install --upgrade pip
+python3 -m venv <name of venv>
+pip install boto3 
+pip install pytz   
+pip install --upgrade awscli
+pip install --upgrade awscli      
+pip install boto3
+pip3 install boto3
+python -m pip install boto3                                                                                                                                                                    
